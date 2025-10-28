@@ -4,3 +4,4 @@ Update documentation [QQYKni] line 9.2
 Update documentation [QQYKni] line 9.3
 Add feature for X [WnQpBA] line 10.1
 Add feature for X [WnQpBA] line 10.2
+Update documentation [ulWwoW] line 11.2
